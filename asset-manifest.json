@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SaravanakumarVijay/SaraClicks/static/css/main.5a345892.chunk.css",
+    "main.js": "/SaravanakumarVijay/SaraClicks/static/js/main.5b29a423.chunk.js",
+    "main.js.map": "/SaravanakumarVijay/SaraClicks/static/js/main.5b29a423.chunk.js.map",
+    "runtime-main.js": "/SaravanakumarVijay/SaraClicks/static/js/runtime-main.1c5392b2.js",
+    "runtime-main.js.map": "/SaravanakumarVijay/SaraClicks/static/js/runtime-main.1c5392b2.js.map",
+    "static/css/2.6d7491e6.chunk.css": "/SaravanakumarVijay/SaraClicks/static/css/2.6d7491e6.chunk.css",
+    "static/js/2.94a4c4e1.chunk.js": "/SaravanakumarVijay/SaraClicks/static/js/2.94a4c4e1.chunk.js",
+    "static/js/2.94a4c4e1.chunk.js.map": "/SaravanakumarVijay/SaraClicks/static/js/2.94a4c4e1.chunk.js.map",
+    "index.html": "/SaravanakumarVijay/SaraClicks/index.html",
+    "precache-manifest.c39e686d34f9fbae5611f36e3696c692.js": "/SaravanakumarVijay/SaraClicks/precache-manifest.c39e686d34f9fbae5611f36e3696c692.js",
+    "service-worker.js": "/SaravanakumarVijay/SaraClicks/service-worker.js",
+    "static/css/2.6d7491e6.chunk.css.map": "/SaravanakumarVijay/SaraClicks/static/css/2.6d7491e6.chunk.css.map",
+    "static/css/main.5a345892.chunk.css.map": "/SaravanakumarVijay/SaraClicks/static/css/main.5a345892.chunk.css.map",
+    "static/js/2.94a4c4e1.chunk.js.LICENSE": "/SaravanakumarVijay/SaraClicks/static/js/2.94a4c4e1.chunk.js.LICENSE",
+    "static/media/photoswipe.css": "/SaravanakumarVijay/SaraClicks/static/media/default-skin.b257fa9c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5392b2.js",
+    "static/css/2.6d7491e6.chunk.css",
+    "static/js/2.94a4c4e1.chunk.js",
+    "static/css/main.5a345892.chunk.css",
+    "static/js/main.5b29a423.chunk.js"
+  ]
+}
